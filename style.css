@@ -1,0 +1,18 @@
+#Logo{
+    width: 100px;
+}
+
+#Top{
+    display: flex ;
+    justify-content: space-between;
+}
+
+#nav{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+
+
+
